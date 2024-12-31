@@ -8,6 +8,7 @@ function App() {
         <img src={reactLogo} className="logo react" alt="React logo" />
 
         <h1>Hello from Amplify</h1>
+        <h2>...-...-...</h2>
       </header>
     </div>
   );
